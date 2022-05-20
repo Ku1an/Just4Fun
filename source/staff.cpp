@@ -1,4 +1,4 @@
-#include "../include/staff.hpp"
+#include "../include/Staff.hpp"
 #include <iostream>
 #include <fstream>
 

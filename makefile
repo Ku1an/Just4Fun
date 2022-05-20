@@ -1,7 +1,7 @@
 
 generate:
 	@echo "Creating run files..." ;\
-    g++ main.cpp -o run ;\
+    g++ -std=c++17 main.cpp -o run ;\
     ./run
 
 clean:

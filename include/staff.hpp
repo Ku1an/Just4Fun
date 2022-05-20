@@ -1,3 +1,4 @@
+#pragma once
 #include <string>
 
 class Staff {
@@ -12,7 +13,7 @@ class Staff {
     Staff();
     Staff(const std::string staffName,const std::string department,const int workHours);
     ~Staff();
-    static void storeData(Staff staff); //Stores the pointer given into txt.
+    static void storeData(Staff staff); //Stores the object given into txt. Static makes it possible to run without created object.
 
 
 

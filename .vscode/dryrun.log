@@ -1,7 +1,7 @@
 make --dry-run --keep-going --print-directory
 make: Entering directory `/Users/kulan/Desktop/projekt/Just4Fun'
 echo "Creating run files..." ;\
-    g++ main.cpp -o run ;\
+    g++ -std=c++17 main.cpp -o run ;\
     ./run
 make: Leaving directory `/Users/kulan/Desktop/projekt/Just4Fun'
  

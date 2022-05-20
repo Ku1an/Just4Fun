@@ -1,53 +1,9 @@
 ALL STAFF DATA :
 
-Staff name : Not set
-Department : Not set
-Workhours : 0
+Staff name : Sofia
+Department : Stjärnan
+Workhours : 40
 
-Staff name : Not set
-Department : Not set
-Workhours : 0
-
-Staff name : Not set
-Department : Not set
-Workhours : 0
-
-Staff name : Simon
-Department : Star
-Workhours : 50
-
-Staff name : Simon
-Department : Star
-Workhours : 50
-
-Staff name : Simon
-Department : Star
-Workhours : 50
-
-Staff name : Simon
-Department : Star
-Workhours : 50
-
-Staff name : Simon
-Department : Star
-Workhours : 50
-
-Staff name : Simon
-Department : Star
-Workhours : 50
-
-Staff name : Simon
-Department : Star
-Workhours : 50
-
-Staff name : Simon
-Department : Star
-Workhours : 50
-
-Staff name : Simon
-Department : Star
-Workhours : 50
-
-Staff name : Simon
-Department : Star
-Workhours : 50
+Staff name : Sofia
+Department : Stjärnan
+Workhours : 40

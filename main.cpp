@@ -1,9 +1,13 @@
-#include "./source/staff.cpp"
+#include "./source/modules.cpp"
 
 int main() {
-    Staff staff("Simon","Star",50);
+    std::string fileName = "./data/staffdata.txt";
+    Staff staff("Sofia","Stjärnan",40);
 
-    Staff::storeData(staff);
+    //Staff::storeData(staff);
+    Datahandler::vectorEmployesData(fileName);
+
+
 
     return 0;
 }
